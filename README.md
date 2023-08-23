@@ -138,4 +138,4 @@ npm start
 ## `CREADO POR OFC-YOVANI` 
 <a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/uKSNdLg.jpg" width="250" height="250" alt="YOVANI"/></a>
   
-`HADES-BOT-OMEGA - By YOVANI`
+`HADES-BOT-OMEGA - By YOVANI-RICHARD`
